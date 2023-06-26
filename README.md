@@ -3,9 +3,9 @@
 
 <h2>About me :</h2>
 <ul>
-    <li><p>👍I'm someone of worker</p></li>
-    <li><p>🦻I'm someone of attentive</p></li>
-    <li><p>🔍I'm someone of curious</p></li>   
+    <li><p>👍I'm worker</p></li>
+    <li><p>🦻I'm attentive</p></li>
+    <li><p>🔍I'm curious</p></li>   
 </ul>
 <h2>Competences :</h2>
 

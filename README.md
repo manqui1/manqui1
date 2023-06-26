@@ -9,7 +9,7 @@
 </ul>
 <h2>Competences :</h2>
 
-<a href><img src="https://iconduck.com/icons/27153/c-sharp-c"></a>
+<a href><img src="img/c-sharp-c (1).svg"></a>
 
 
 

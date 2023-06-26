@@ -9,7 +9,7 @@
 </ul>
 <h2>Competences :</h2>
 
-<a href><img src="img/c-sharp-c (1).svg"></a>
+<a href><img src="img/c-sharp-c (1).svg" width="10"></a>
 
 
 
